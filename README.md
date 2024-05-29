@@ -37,7 +37,7 @@
 - 🌱 I’m currently learning machine learning and data science
 - 💬 Ask me about web development, data science, Unity, basketball, and more ✨
 - 📫 How to reach me: cshafizadeh@gmail.com
-- ⚡ Fun fact: I can cook 🧑‍🍳
+- ⚡ Fun fact: I love to cook 🧑‍🍳
 
 <h3>Connect with me!</h3>
 <div>
