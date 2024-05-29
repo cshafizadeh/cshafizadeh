@@ -51,8 +51,6 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cshafizadeh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- need to follow instructions for including private repos https://github.com/anuraghazra/github-readme-stats?source=post_page-----36957caa711c--------------------------------
 <h3>GitHub Stats</h3>
 
