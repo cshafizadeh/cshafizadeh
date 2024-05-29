@@ -30,7 +30,7 @@
 
 - 💻 Intern at Intel
 - 👨‍🔬 Lab researcher at OSU NVIDIA graphics lab for Dr. Raffaele De Amicis
-- 💼 Portfolio Website: <a href="https://www.cyrusshafizadeh.com">cyrusshafizadeh.com</a>
+- 💼 Portfolio Website: <a href="https://www.cyrusshafizadeh.com" target="_blank">cyrusshafizadeh.com</a>
 
 <br/>
 
@@ -41,10 +41,10 @@
 
 <h3>Connect with me!</h3>
 <div>
-<a href="https://www.linkedin.com/in/cshafizadeh/">
+<a href="https://www.linkedin.com/in/cshafizadeh/" target="_blank">
   <img align="left" src="https://github.com/yushi1007/yushi1007/blob/main/images/linkedin.svg" alt="icon | LinkedIn" width="21px"/>
 </a>
-<a href="https://www.instagram.com/cshafizadeh">
+<a href="https://www.instagram.com/cshafizadeh" target="_blank">
   <img align="left" src="https://github.com/yushi1007/yushi1007/blob/main/images/instagram.svg" alt="icon | LinkedIn" width="21px"/>
 </a>
 </div>
