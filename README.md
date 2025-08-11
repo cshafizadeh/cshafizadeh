@@ -28,8 +28,8 @@
 
 <p align="center">I am a 5th-year student (graduating June 2025) at the College of Engineering at Oregon State University currently achieving my Bachelor of Science in computer science with a focus in data science, and a minor in business. I currently work as a software engineering intern at Intel, and a student researcher in the NVIDIA graphics lab at OSU. My passion is creating unique stylish user experiences that achieve business objectives while scaling and delighting users.</p>
 
-- 💻 Intern at Intel
-- 👨‍🔬 Student lab researcher at OSU NVIDIA graphics lab for Dr. Raffaele De Amicis
+- 💻 Software Development Engineer at Intel
+- 👨‍🔬 Ex Student lab researcher at OSU graphics lab for Dr. Raffaele De Amicis
 - 💼 Portfolio Website: <a href="https://www.cyrusshafizadeh.com" target="_blank">cyrusshafizadeh.com</a>
 
 <br/>
